@@ -1,0 +1,53 @@
+.skillsH1{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+}
+
+.skillsH2{
+    font-size: 25px;
+    color: #61DAFB;
+    text-align: center;
+    margin-bottom: 1.5em;
+}
+
+.skills p.descricao {
+    text-align: center;
+}
+
+.skillsH3{
+    font-size: 18px;
+    margin: 0.5em 2em;
+}
+
+span{
+    font-weight: bold;
+}
+
+.skills hr{
+    width: 100%;
+    margin: 2em auto;
+}
+
+.skills p{
+    margin: 0.5em 3em;
+}
+
+.skills ul{
+    margin: 0.5em 3em;
+}
+
+.skills ul li{
+    margin: 0.5em 0;
+}
+
+@media (max-width: 600px){
+    .skillsH1{
+        font-size: 25px;
+    }
+
+    .skillsH2{
+        font-size: 20px;
+        margin-bottom: 0.5em;
+    }
+}
