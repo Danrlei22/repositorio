@@ -13,7 +13,7 @@ Este projeto foi criado para me apresentar em uma Single Page Application. Nele,
 
 ## Pode ser acessado pelo link abaixo
 
-[Link do Projeto]
+https://portfoliodanrlei.netlify.app/
 
 # Tecnologias utilizadas
 
