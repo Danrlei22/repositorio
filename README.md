@@ -1,4 +1,4 @@
-# Postfólio Danrlei
+# Portfólio Danrlei
 
 Este projeto foi criado para me apresentar em uma Single Page Application. Nele, você encontrará alguns dos meus projetos e as tecnologias que utilizei. Ao clicar em um card de projeto, você será direcionado ao GitHub, onde poderá acessar o código-fonte e o link do projeto em execução.
 
